@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70184311710",
+    "project_id": "salon-booking-app-ecbda",
+    "storage_bucket": "salon-booking-app-ecbda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70184311710:android:ef0d02a65e112c9d54d48f",
+        "android_client_info": {
+          "package_name": "com.humaunkobir.salonbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG39EPmmpw-6nUL7vGDNAEbknhzUPBRcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Salon Booking App",
+  "description": "A comprehensive salon booking application that connects customers with salon vendors, managed by an administrator. This platform facilitates service booking, payments, and vendor withdrawals, creating a seamless experience for all users.",
+  "requestFramePermissions": []
+}
